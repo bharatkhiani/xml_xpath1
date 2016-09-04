@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<invoices>
+  <invoice number="25" date="February 28, 2001">
+    <patient firstname="Jeff" familyname="Smith" SSN="123456789">
+      <phone type="home" number="123-4567890"/>
+      <phone number="321-76543321" type="work"/>
+      <address type="home" line1="123 Street" city="NY" state="US" zip="12345"/>
+    </patient>
+    <insurance name="Humongous First Medical Insurance" plannumber="12345" planname="The Client Company">
+    <phone number="098-76543321"/>
+    <address type="business" line1="321 Street" city="NY" state="US" zip="54321"/>
+    </insurance>
+    <procedure code="123" name="Cleaning nose" cost="50.00" insurance_estimate="50.00"/>
+    <procedure code="124" name="Tarot reading of illnesses" cost="150.00" insurance_estimate="120.00"/>
+    <procedure code="125" name="Aura Examination" cost="100.00" insurance_estimate="80.00"/>
+  </invoice>
+  
+  <invoice number="27" date="February 28, 2001">
+      <patient firstname="James" familyname="Smith" SSN="123456765">
+         <phone type="home" number="123-4562245"/>
+         <address type="home" line1="432 Street" city="Nevada" state="US" zip="12343"/>
+       </patient>
+       <insurance name="Humongous Second Medical Insurance" plannumber="3455" planname="Another Client Company">
+          <phone number="098-76543321"/>
+          <address type="business" line1="344 Street" city="Wisconsin" state="US" zip="54323"/>
+       </insurance>
+       <procedure code="123" name="Cleaning nose" cost="50.00" insurance_estimate="50.00"/>
+       <procedure code="124" name="Tarot reading of illnesses" cost="150.00" insurance_estimate="120.00"/>
+  </invoice>
+  
+  <invoice number="29" date="February 28, 2001">
+    <patient firstname="Neil" familyname="Smith" SSN="123456345">
+      <phone type="home" number="125-4345890"/>
+      <address type="home" line1="187 Street" city="Los Angeles" state="US" zip="42145"/>
+    </patient>
+    <insurance name="Humongous Third Medical Insurance" plannumber="12345" planname="The Lost City Client Company">
+      <phone number="198-76345321"/>
+      <address type="business" line1="342 Street" city="Manhattan" state="US" zip="42140"/>
+    </insurance>
+    <procedure code="123" name="Cleaning nose" cost="50.00" insurance_estimate="50.00"/>
+    <procedure code="125" name="Cleaning ears" cost="100.00" insurance_estimate="80.00"/>
+  </invoice>
+</invoices>

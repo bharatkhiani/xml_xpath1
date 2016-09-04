@@ -1,0 +1,9 @@
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\bin\Debug\xml_xpath1.exe.config
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\bin\Debug\xml_xpath1.exe
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\bin\Debug\xml_xpath1.pdb
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\obj\Debug\xml_xpath1.csprojResolveAssemblyReference.cache
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\obj\Debug\xml_xpath1.Form1.resources
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\obj\Debug\xml_xpath1.Properties.Resources.resources
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\obj\Debug\xml_xpath1.csproj.GenerateResource.Cache
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\obj\Debug\xml_xpath1.exe
+C:\data\bharat\gareth1\xml_xpath1\xml_xpath1\obj\Debug\xml_xpath1.pdb
